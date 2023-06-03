@@ -1,4 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Lucas 👋
+
+⚙️ Engenheiro Mecânico pela Universidade Estadual de Maringá  
+
+📖 Pós Graduando em Engenharia e Administração de Sistemas de Banco de Dados pela Universidade Estadual de Campinas 
+
+📈 Desde 2020 trabalhando com dados 
+
+✅ Pós Graduado em Gerenciamento de Projetos pela Fundação Getúlio Vargas
+
+💻 Analista de Business Intelligence na Unimed de Maringá
+
 
 <!--
 **lucasbrancalhao/lucasbrancalhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
