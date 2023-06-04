@@ -10,5 +10,14 @@
 
 💻 Analista de Business Intelligence na Unimed de Maringá
 
+<div id="badges">
+  <[img src="caminho-para-seu-badge-1.png" alt="Badge 1"](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)>
+  <[img src="caminho-para-seu-badge-2.png" alt="Badge 2"](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)>
+  <[img src="caminho-para-seu-badge-3.png" alt="Badge 3"](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
