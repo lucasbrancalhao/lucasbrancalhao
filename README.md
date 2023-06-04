@@ -10,8 +10,11 @@
 
 💻 Analista de Business Intelligence na Unimed de Maringá
 
+[![Badge 1](	https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](link-para-o-repositorio-1)
+[![Badge 2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](link-para-o-repositorio-1)
+[![Badge 3]([https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+))](link-para-o-repositorio-1)
 
-[![Badge 1]([caminho-para-seu-badge-1.png](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white))]([lucasbrancalhao](https://github.com/lucasbrancalhao/lucasbrancalhao))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
