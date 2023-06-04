@@ -13,7 +13,8 @@
 [![Badge 1](	https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](link-para-o-repositorio-1)
 [![Badge 2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](link-para-o-repositorio-1)
 [![Badge 3](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](link-para-o-repositorio-1)
-[![Badge 3](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](link-para-o-repositorio-1)
+[![Badge 4](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](link-para-o-repositorio-1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/lucasbrancalhao/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/lucasbrancalhao/github-readme-stats)
